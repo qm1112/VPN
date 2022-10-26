@@ -8,7 +8,7 @@
     }, 
      "Domain": {
       "description": "Please enter the complete url of server where the app is deployed (Without schema like 'https://' etc))",
-      "value": "git.heroku.com/vpnqqq.git"
+      "value": "git.heroku.com/qmqm.git"
     }
   },
   "stack": "container"
