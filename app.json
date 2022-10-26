@@ -1,5 +1,5 @@
 {
-  "name": "Aditya's VPN Rapid deployment",
+  "name": "qm's VPN Rapid deployment",
   "description": "Deploy Shadowsocks to your Server",
   "env": {
      "Password": {
@@ -8,7 +8,7 @@
     }, 
      "Domain": {
       "description": "Please enter the complete url of server where the app is deployed (Without schema like 'https://' etc))",
-      "value": "no"
+      "value": "git.heroku.com/vpnqqq.git"
     }
   },
   "stack": "container"
